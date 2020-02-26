@@ -1,0 +1,13 @@
+.app {
+  overflow: hidden;
+}
+
+.sidebar {
+  float: left;
+  width: 200px;
+}
+
+.main {
+  float: left;
+  width: 400px;
+}
